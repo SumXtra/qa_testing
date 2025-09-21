@@ -10,11 +10,11 @@ Findings:
 ℹ️ Music Volume slider works accordingly.
 ⚠️ SFX will randomly play quietly instead of normal volume.
 
-❗In level 1, the mall fills up with 22/20 customers if no customers receive green check mark.
+❗In level 1, the mall fills up with 22/20 customers.
 
-❗In level 2, the mall fills up with 28/25 customers if no customers receive green check mark.
+❗In level 2, the mall fills up with 28/25 customers.
 
-❗In level 3, the mall fills up with 31/30 customers if no customers receive green check mark.
+❗In level 3, the mall fills up with 31/30 customers.
 
 ❗In level 3, game crashed after hitting escape to enter menu, escape to exit menu, and two floor inputs on elevators. Attempting to reproduce.
 

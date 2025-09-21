@@ -1,7 +1,9 @@
-# BUG-001 — [SFX Volume Slider]
+# BUG-01 — [SFX Volume Slider]
 
 **Severity:** P2 (Major)
+
 **Status:** Reproduced 
+
 **Environment:**  
 - OS: Windows 11 23H2  
 - GPU: Radeon RX 7900 XTX (driver 24.5.1)  
