@@ -17,6 +17,9 @@
 2. Click **Level Select**
 3. Click **3**
 4. Play as normal
+5. When **Customers** start getting green check marks (done shopping), send them to the first floor.
+6. As they are headed for the mall exit, change the elevator floor.
+7. **Customers** will warp back into the elevator.
 
 ## Expected Result
 - **Customers** should be able to leave once done shopping.

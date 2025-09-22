@@ -21,3 +21,12 @@ Findings:
 ℹ️ Need to screen record these sessions. Unable to reproduce crash.
 
 ❗In level 3, encountered a bugged customer with green check mark endlessly riding the right elevator.
+
+## Session 2 - 9/22/25
+Focus: Game Breaking
+Path: launch -> level select -> 3
+
+Findings:
+❗In level 3, **Customers** will finish shopping while standing in an elevator with the door open. You can see their transparent avatar exit the mall but the elevator counter still shows they never left. If you then send the elevator to a different floor, the game crashes.
+
+❗In level 3, **Customers** can't enter the fashion store on the 2nd floor.
